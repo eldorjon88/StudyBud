@@ -15,7 +15,6 @@ from .forms import RoomForm, UserForm, MyUserCreationForm
 #     {'id': 3, 'name': 'Frontend developers'},
 # ]
 
-
 def loginPage(request):
     page = 'login'
     if request.user.is_authenticated:

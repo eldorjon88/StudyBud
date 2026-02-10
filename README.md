@@ -7,6 +7,7 @@ This project was built as part of a comprehensive 7-hour video tutorial: [Watch 
 
 ## Screenshots
 
+
 <table width="100%"> 
 <tr>
 <td width="50%">      

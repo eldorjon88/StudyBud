@@ -16,3 +16,4 @@ class Migration(migrations.Migration):
             field=models.ImageField(default='avatar.svg', null=True, upload_to=''),
         ),
     ]
+
