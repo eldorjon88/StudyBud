@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudyBud
 
 StudyBud is a Django-based web application where users can create and join study rooms on various topics, engage in discussions, and collaborate with other learners. 
@@ -63,3 +64,6 @@ python manage.py runserver
 ```
 
 The application will be available at http://127.0.0.1:8000/
+=======
+# StudyBud
+>>>>>>> 9413834c58bcc693c969d7949aae1bfe8d074108
